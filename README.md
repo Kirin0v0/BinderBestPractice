@@ -1,0 +1,2 @@
+# BinderBestPractice
+希望成为最好的Binder练习Demo，目前已完成AIDL部分
